@@ -11,6 +11,7 @@
     <PackageReference Include="ReactiveUI.Events.WPF" Version="10.5.7" />
     <PackageReference Include="ReactiveUI.Fody" Version="10.5.7" />
     <PackageReference Include="ReactiveUI.WPF" Version="10.5.7" />
+    <PackageReference Include="Splat" Version="9.1.1" />
   </ItemGroup>
 
 </Project>
